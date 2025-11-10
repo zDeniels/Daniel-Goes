@@ -14,9 +14,9 @@ it's my main focus in my daily work.
 
 ## Contact
 <div>
-<a href="https://www.linkedin.com/in/daniel-g-5a70bb131/"target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/daniel-g-5a70bb131/"target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"</a>
     
-</div>          >
+</div>       
           
           
           
