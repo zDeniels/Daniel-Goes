@@ -53,7 +53,7 @@ Vou adicionando projetos pequenos e honestos que mostram aprendizado prático: s
 
 ## 📬 Contato
 <a href="https://www.linkedin.com/in/daniel-g-5a70bb131/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
 </a>    
 
 
