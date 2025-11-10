@@ -53,9 +53,8 @@ Vou adicionando projetos pequenos e honestos que mostram aprendizado prático: s
 
 ## 📬 Contato
 
-- LinkedIn: [Daniel G](https://www.linkedin.com/in/daniel-g-5a70bb131/)
+- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/daniel-g-5a70bb131/){:target="_blank"}
 
-> Nota: o GitHub sanitiza alguns atributos HTML dentro do README (por exemplo `target="_blank"` pode ser ignorado). Se o link abrir na mesma aba, use clique com o botão direito → "Abrir link em nova aba" ou Ctrl/Cmd+clique.
 
 ---
 
