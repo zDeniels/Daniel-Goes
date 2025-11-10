@@ -53,7 +53,7 @@ Vou adicionando projetos pequenos e honestos que mostram aprendizado prático: s
 
 ## 📬 Contato
 
-<a href= "https://www.linkedin.com/in/daniel-g-5a70bb131/" target="_blank>src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
+<a href= "https://www.linkedin.com/in/daniel-g-5a70bb131/" target="_blank> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
 
 
 ---
